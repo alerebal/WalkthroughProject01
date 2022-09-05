@@ -1,5 +1,9 @@
 inputs/malaria_dataset/cell_images/test
 inputs/malaria_dataset/cell_images/train
+inputs/malaria_dataset/cell_images/Uninfected
+inputs/malaria_dataset/cell_images/ParasitizedS
+inputs/test/cherry-leaves/test
+inputs/test/cherry-leaves/train
 kaggle.json
 *.ipynb
 
